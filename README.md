@@ -49,7 +49,7 @@ demo主函数代码实现，可了解物体检测时接口函数调用过程。
 2. 工程编译生成libyolo库文件；
   命令**make arm_lib**
 3. 在hi3516dv300上运行test文件可得yolov3-demo运行结果如图。
-![result]()
+![result](https://github.com/BaronLeeLZP/hi3516dv300_nnie-yolov3-demo/blob/master/image/result.png)
 4. 命令**make clean**可清理原有的编译输出对象，之后再修改文件重新编译。
 
 如有技术问题欢迎交流！
